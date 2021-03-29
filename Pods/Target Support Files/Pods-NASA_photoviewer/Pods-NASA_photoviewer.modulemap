@@ -1,0 +1,6 @@
+module Pods_NASA_photoviewer {
+  umbrella header "Pods-NASA_photoviewer-umbrella.h"
+
+  export *
+  module * { export * }
+}
